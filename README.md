@@ -19,7 +19,7 @@
 5. Read the following blog post. Don’t get scared by all the code snippets: https://eloquentjavascript.net/09_regexp.html
 
 ### Github
-1. Go to today's repsistory: https://github.com/chenkel/chatbot-mmt
+1. Go to today's repsistory: https://github.com/chenkel/fommt-chatbot
 2. [Clone the repository via WebStorm](https://www.jetbrains.com/help/webstorm/set-up-a-git-repository.html)
 3. Open the project in WebStorm 
 
